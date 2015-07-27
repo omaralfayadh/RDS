@@ -1,0 +1,38 @@
+body { 
+  padding-top: 150px; 
+  }
+
+#imageGallery {
+list-style: none;
+display: inline-block;
+padding-left: 70px;
+size: 100%;
+}
+
+.wwa {
+  padding-left: 100px;  
+}
+
+
+.wws {
+  list-style: none;
+  padding-left: 100px;
+}
+
+.copyRight {
+  text-align: center;
+}
+
+.test  {
+  padding-left: 70px;
+}
+.main-content {
+  background-color: rgba(255, 255, 255, 0.65);
+}
+
+#imageGallery li {
+  float: left;
+  width: 45%;
+  
+  }
+

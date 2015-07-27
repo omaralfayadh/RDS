@@ -1,0 +1,12 @@
+body { 
+  padding-top: 150px; 
+  }
+
+
+#Navbar {
+color: #007CC3;
+}
+
+#imageGallery {
+list-style: none;
+}
