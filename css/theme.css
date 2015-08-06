@@ -4,9 +4,7 @@ body {
 
 #imageGallery {
 list-style: none;
-display: inline-block;
 padding-left: 70px;
-size: 100%;
 }
 
 .wwa {
@@ -31,13 +29,14 @@ size: 100%;
   float: left;
   width: 100%;
   }
-<!--
+
 .follow {
   background-color: #0054A6;
   text-align: right;
   list-style: none;
   width: 100%;
-  margin-left: 0%;
+  margin-left: -20px;
+  margin-top: 60px;
 }
 
 .RDS {
@@ -48,4 +47,22 @@ nav li {
   display: inline;
 }
 
--->
+  @media screen and (min-width: 1200px) {
+    
+    .toma {
+      
+    }
+  }
+ 
+  
+  .FB {
+    
+  }
+  
+  
+  
+  
+  
+  
+  
+  
