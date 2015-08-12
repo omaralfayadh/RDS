@@ -32,37 +32,32 @@ padding-left: 70px;
 
 .follow {
   background-color: #0054A6;
-  text-align: right;
+  text-align: center;
   list-style: none;
   width: 100%;
   margin-left: -20px;
   margin-top: 60px;
+  margin-bottom: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .RDS {
-  text-align: left;
+  text-align: center;
   color: white;
 }
 nav li {
   display: inline;
 }
 
-  @media screen and (min-width: 1200px) {
-    
-    .toma {
-      
-    }
-  }
- 
+.FB {
+  text-align: center;
+  display: inline-block;
+  color: black;
+  padding-left: 50px;
   
-  .FB {
-    
-  }
-  
-  
-  
-  
-  
-  
-  
-  
+}
+
+.TW {
+  list-style: georgian;
+}
