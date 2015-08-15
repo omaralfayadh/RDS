@@ -1,5 +1,5 @@
 body { 
-  padding-top: 150px; 
+  padding-top: 520px; 
   }
 
 #imageGallery {
@@ -9,12 +9,16 @@ padding-left: 70px;
 
 .wwa {
   padding-left: 100px;  
+  padding-bottom: 380px;
+  padding-top: 450px;
 }
 
 
 .wws {
   list-style: none;
   padding-left: 100px;
+  padding-top: 350px;
+  padding-bottom: 450PX;
 }
 
 .copyRight {
@@ -23,6 +27,7 @@ padding-left: 70px;
 
 .test  {
   padding-left: 70px;
+  padding-top: 400px;
 }
 
 #imageGallery li {
@@ -52,12 +57,37 @@ nav li {
 
 .FB {
   text-align: center;
-  display: inline-block;
-  color: black;
   padding-left: 50px;
-  
 }
 
-.TW {
-  list-style: georgian;
+.parallax-container {
+    padding-top: 10px;
+    background: transparent;
+}
+
+.parallax-cont {
+  padding-top: 10px;
+    background: transparent;
+}
+
+#social {
+  padding-top: 25px;
+}
+
+.oops {
+  text-align: center;
+  font-size: 2em;
+  padding-top: 420px;
+}
+
+.photo {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.photo img {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
 }
