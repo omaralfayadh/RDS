@@ -1,0 +1,89 @@
+body {
+  padding-top: 150px;
+}
+
+#wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+
+.copyRight {
+  text-align: center;
+}
+
+
+.follow {
+  background-color: #0054A6;
+  text-align: center;
+  list-style: none;
+  width: 100%;
+  margin-left: -20px;
+  margin-top: 60px;
+  margin-bottom: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.RDS {
+  text-align: center;
+  color: white;
+}
+nav li {
+  display: inline;
+}
+
+.FB {
+  text-align: center;
+  padding-left: 50px;
+}
+
+
+#social {
+  padding-top: 25px;
+}
+
+
+.ezbom {
+  list-style: none;
+  padding-bottom: 30px;
+}
+
+.bomimg {
+  list-style: none;
+  padding-top: 30px;
+}
+
+.bomimg {
+  margin: 0;
+  padding-top: 20px;
+  list-style: none;
+}
+
+.bomimg li {
+ width: 100%;
+ margin: 2%;
+ float: left;
+}
+
+.copyRight {
+  text-align: center;
+}
+
+.bom2 {
+  padding-top: 30px;
+}
+
+.sales {
+  color: #0054A6;
+  list-style: none;
+}
+
+.cont {
+  list-style: none;
+}
+
+.soft {
+  padding-top: 20px;
+}
