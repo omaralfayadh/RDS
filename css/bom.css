@@ -50,16 +50,16 @@ nav li {
   padding-bottom: 30px;
 }
 
-.bomimg {
+#bomimg {
   margin: 0;
   padding-top: 20px;
+  float: left;
   list-style: none;
 }
 
-.bomimg li {
+#bomimg li {
  width: 100%;
  margin: 2%;
- float: left;
 }
 
 .copyRight {
